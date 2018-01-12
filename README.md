@@ -21,7 +21,7 @@ None
 Example Playbook
 ----------------
 
-- hosts: localhost
-  remote_user: root
-  roles:
-    - dockerize
+`- hosts: localhost`
+`  remote_user: root`
+`  roles:`
+`    - dockerize`
